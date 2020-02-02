@@ -4,6 +4,7 @@
 ### Project Description
 
 This project is (Data Scientist Capstone) a part of Udacity Data Scientist Nanodegree Program.
+
 In this project, I will try to find the bank customers who left the bank (closed their account) and who still continue to be a customer.
 and I will try to understand the attributes of the customers and I will see if the age or gender affect to close their account.
 My goal for this project is to create a model to help us predict the customers who will close their accounts.
